@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>現場ラジオ</title>
+    <link>https://kabutonakano.github.io/genba-radio</link>
+    <language>ja</language>
+    <description>建築施工管理技術検定2級の過去問を、トキとナカムラの掛け合いで毎朝1本ずつ解説するラジオ番組。</description>
+    <itunes:author>なかの</itunes:author>
+    <itunes:owner>
+      <itunes:name>なかの</itunes:name>
+      <itunes:email>kabutonakano@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>現場ラジオ 第4回 ─ 思い込みを崩す回</title>
+      <description>音・鉄筋コンクリート構造・鉄骨構造</description>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 +0900</pubDate>
+      <enclosure url="https://kabutonakano.github.io/genba-radio/episodes/episode_004.mp3" length="2108108" type="audio/mpeg" />
+      <guid isPermaLink="false">https://kabutonakano.github.io/genba-radio/episodes/episode_004.mp3</guid>
+      <itunes:duration>4:35</itunes:duration>
+    </item>
+  </channel>
+</rss>
