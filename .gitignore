@@ -1,0 +1,7 @@
+*
+!episodes/
+!episodes/**
+!feed.xml
+!feed_config.json
+!generate_feed.py
+!.gitignore
